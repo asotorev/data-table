@@ -1,0 +1,11 @@
+- Add responsive
+- Connect to database
+- Add functionality
+- Apply tests
+- Upload to Github
++ Add hover line effect
++ Text wrap on each cell: https://stackoverflow.com/questions/9789723/css-text-overflow-in-a-table-cell
++ Add footer
++ Align amounts to the right
++ Delete class test on App.vue
++ Fix page X overflow when clicking on sort
